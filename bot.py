@@ -105,7 +105,7 @@ async def handleNewHacker(hacker, discordId):
 
 def getStartupMessageContent():
     return '''
-    I agree to sign my life away to Alex along with 45% of my lifetime earnings because he wants to eat ice cream [test](wichacks.io)
+    **Hey! I'm the WiCHacks Gatekeeper bot!** I'm here to make sure that everyone stays safe this weekend!\n\n**Are you a hacker?** React using the thumbs up emoji to verify yourself and see the rest of the server!\n\n**Are you a sponsor/volunteer/mentor?** Introduce yourself in the #check-in-desk channel, and an admin will let you in shortly\n\nBy entering our server, you agree to the RIT Code of Conduct, MLH Privacy Policy, and MLH Code of Conduct (all of which you agreed to on your WiCHacks application)\n\n***Happy Hacking!***
     '''
 
 
